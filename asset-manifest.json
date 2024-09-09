@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/animatedbutton/static/css/main.a3c47f3b.css",
+    "main.js": "/animatedbutton/static/js/main.3fa138b6.js",
+    "static/js/453.dd88dd5f.chunk.js": "/animatedbutton/static/js/453.dd88dd5f.chunk.js",
+    "index.html": "/animatedbutton/index.html",
+    "main.a3c47f3b.css.map": "/animatedbutton/static/css/main.a3c47f3b.css.map",
+    "main.3fa138b6.js.map": "/animatedbutton/static/js/main.3fa138b6.js.map",
+    "453.dd88dd5f.chunk.js.map": "/animatedbutton/static/js/453.dd88dd5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c47f3b.css",
+    "static/js/main.3fa138b6.js"
+  ]
+}
